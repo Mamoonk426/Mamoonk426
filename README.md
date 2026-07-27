@@ -1,4 +1,4 @@
-# Hi, I'm Mamoon 👋
+# Hi, I'm Mamoon Khan 👋
 
 I'm a **Flutter Developer** and **Computer Science student** (6th semester) based in **Pakistan 🇵🇰**. I build real-world mobile apps from scratch with a strong focus on understanding things from first principles — not just copying tutorials.
 
